@@ -21,9 +21,8 @@ This is a simple two-player game that you can play locally with friends — buil
 
 ## 📸 Preview
 
-> *(You can add a screenshot here if you want — just upload the image to the repo and link it like this)*
+<img width="463" height="463" alt="image" src="https://github.com/user-attachments/assets/5ab1b3d7-87ae-433e-ad7e-9d8cd9e0b381" />
 
-![Tic Tac Toe GUI Preview](assets/tic-tac-toe-screenshot.png)
 
 ---
 
